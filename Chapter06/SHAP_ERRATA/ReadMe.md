@@ -15,6 +15,8 @@ The exact steps have been mentioned here:
 `shap.__file__`
 2. Once you detect the `shap` root folder, replace `_explanation.py` present with the `_explanation.py` provided in the SHAP_ERRATA folder of this reporsitory. 
 This will help to solve an issue observed with shap barplots.
+GitHub Issue - https://github.com/slundberg/shap/issues/2325
 3. To solve the issue observed with Waterfall plots, please navigate to the shap root folder and then navigative to the plots folder and replace `_waterfall.py` with `plots/_waterfall.py` file provided in the SHAP_ERRATA folder of this repository.
+GitHub Issue - https://github.com/slundberg/shap/pull/2342
 
-**Please note** - The issues are observed with the Shap framework of `0.40.0` which is the version that I am using. These issues can be rectified in future versions, or even new issues can come for which my solutions might not work. So, please apply the corrections only when you encounter an error. If my solutions doesn't help, please open and issue for this project and accordingly I can try providing the solution. Apologies if this affects your learning experience. 
+**Please note** - The issues are observed with the Shap framework of `0.40.0` which is the version that I am using. These issues can be rectified in future versions, or even new issues can come for which my solutions might not work. So, please apply the corrections only when you encounter an error. If my solutions doesn't help, please open an issue for this project and accordingly I can try providing the solution. Apologies if this affects your learning experience. 
