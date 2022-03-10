@@ -1,0 +1,8 @@
+#Ignore Chpater 8 TCAV activations
+Chapter08/activations/*
+
+#Ignore Chpater 8 TCAV cav
+Chapter08/cav/*
+
+#Ignore Chpater 8 TCAV concepts
+Chapter08/concepts/*
