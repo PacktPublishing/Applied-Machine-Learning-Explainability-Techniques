@@ -1,0 +1,20 @@
+The dataset is prepared from the Kaggle Fifa 22 Player dataset: https://www.kaggle.com/stefanoleone992/fifa-22-complete-player-dataset. Original dataset acknowledge is provided to website sofifa.com as the data is scrapped from the publicly available website.
+
+The training data is for top 10 clubs for the 2021-22 season from English Premier League, La Liga, Serie A, Bundesliga 1, French League 1.
+
+The test data is unlabeled and contains the player information of the same teams for 2022-2023 season.
+
+The datasets contains the following features:
+
+- Players available in FIFA 21, and also FIFA 22 for the selected clubs and leagues
+
+- 80+ attributes
+
+- Player positions, with the role in the club
+
+- Player attributes with statistics as Attacking, Skills, Defense, Mentality, GK Skills, etc.
+
+- Other Player information like Wage, Salary, etc.
+
+The credit to compiling this datasets goes to Aditya Bhattacharya: https://github.com/adib0073. Reach out to Aditya in Linkedin: https://www.linkedin.com/in/aditya-bhattacharya-b59155b6/
+
