@@ -1,4 +1,5 @@
-Fifa Club Position Prediction dataset.
+-------------------------------------
+FIFA Club Position Prediction dataset.
 --------------------------------------
 The dataset is prepared from the Kaggle Fifa 22 Player dataset: https://www.kaggle.com/stefanoleone992/fifa-22-complete-player-dataset. Original dataset acknowledgement is provided to the website sofifa.com as the data is scrapped from the publicly available website.
 
@@ -22,5 +23,5 @@ The datasets contains the following features:
 
 - Other Player information like Wage, Salary, etc.
 
-The credit to compiling this datasets goes to Aditya Bhattacharya: https://github.com/adib0073. Reach out to Aditya in Linkedin: https://www.linkedin.com/in/aditya-bhattacharya-b59155b6/
+The credit to compiling this dataset goes to Aditya Bhattacharya: https://github.com/adib0073. Reach out to Aditya in Linkedin: https://www.linkedin.com/in/aditya-bhattacharya-b59155b6/
 
