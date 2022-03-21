@@ -13,7 +13,7 @@ The datasets contains the following features:
 
 - 80+ attributes
 
-- The club `position` is the target variable that the model needs to predict.
+- The club `position` is the target variable that the model needs to predict. The `position` field indicates the league position of the club represented by the player for the 2020-2021 season.
 
 - Player positions, with the role in the club
 
