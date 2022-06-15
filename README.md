@@ -75,7 +75,7 @@ Alternatively, you can install libraries one chapter at a time inside of a local
 - [Chapter 02 - Model Explainability Methods](https://github.com/PacktPublishing/Applied-Machine-Learning-Explainability-Techniques/tree/main/Chapter02)
 - [Chapter 03 - Data Centric Approaches](https://github.com/PacktPublishing/Applied-Machine-Learning-Explainability-Techniques/tree/main/Chapter03)
 - [Chapter 04 - Introduction to LIME for Model Interpretability](https://github.com/PacktPublishing/Applied-Machine-Learning-Explainability-Techniques/tree/main/Chapter04)
-- [Chapter 05 - Practical Exposure of Using LIME in ML](https://github.com/PacktPublishing/Applied-Machine-Learning-Explainability-Techniques/tree/main/Chapter05
+- [Chapter 05 - Practical Exposure of Using LIME in ML](https://github.com/PacktPublishing/Applied-Machine-Learning-Explainability-Techniques/tree/main/Chapter05)
 - [Chapter 06 - Model Interpretability Using SHAP](https://github.com/PacktPublishing/Applied-Machine-Learning-Explainability-Techniques/tree/main/Chapter06)
 - [Chapter 07 - Practical Exposure of Using SHAP in ML](https://github.com/PacktPublishing/Applied-Machine-Learning-Explainability-Techniques/tree/main/Chapter07)
 - [Chapter 08 - Human-friendly Explanations with TCAV](https://github.com/PacktPublishing/Applied-Machine-Learning-Explainability-Techniques/tree/main/Chapter08)
