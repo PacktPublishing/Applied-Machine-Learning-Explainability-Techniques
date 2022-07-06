@@ -1,8 +1,8 @@
 # Applied Machine Learning Explainability Techniques
 
-<a href="https://www.packtpub.com/product/applied-machine-learning-explainability-techniques/9781803246154?utm_source=github&utm_medium=repository&utm_campaign=9781803246154"><img src="https://static.packt-cdn.com/products/9781803232416/cover/smaller" alt="Applied Machine Learning Explainability Techniques" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/applied-machine-learning-explainability-techniques/9781803246154?utm_source=github&utm_medium=repository&utm_campaign=9781803246154"><img src="https://static.packt-cdn.com/products/9781803246154/cover/smaller" alt="Applied Machine Learning Explainability Techniques" height="256px" align="right"></a>
 
-This is the code repository for [Mastering Azure Machine Learning - Second Edition](https://www.packtpub.com/product/applied-machine-learning-explainability-techniques/9781803246154?utm_source=github&utm_medium=repository&utm_campaign=9781803246154), published by Packt.
+This is the code repository for [Applied Machine Learning Explainability Techniques](https://www.packtpub.com/product/applied-machine-learning-explainability-techniques/9781803246154?utm_source=github&utm_medium=repository&utm_campaign=9781803246154), published by Packt.
 
 **Make ML models explainable and trustworthy for practical applications using LIME, SHAP, and more**
 
