@@ -19,7 +19,7 @@ This book covers the following exciting features:
 * Use user-centric XAI to bring AI closer to non-technical end users
 * Address open challenges in XAI using the recommended guidelines
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/B09NC5XJ6D) today!
+If you feel this book is for you, get your [copy](https://amzn.to/3NN27TK) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
