@@ -105,3 +105,7 @@ Prior to his current role, Aditya has worked in various roles in organizations l
 As the AI Lead at West Pharma, he had contributed to forming the AI Centre of Excellence, managing & leading a global team of 10+ members focused on building AI products.
 He also holds a Masters’s degree from Georgia Tech in Computer Science with ML and a Bachelor’s degree from VIT University in ECE. 
 Aditya is passionate about bringing AI closer to end-users through his various initiatives for the AI community.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803246154">https://packt.link/free-ebook/9781803246154 </a> </p>
